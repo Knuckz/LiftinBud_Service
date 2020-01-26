@@ -1,0 +1,14 @@
+{
+  "name": "liftinbud_service",
+  "version": "1.0.0",
+  "description": "REST API for LiftinBud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
